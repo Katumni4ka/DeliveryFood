@@ -51,7 +51,7 @@ main {
     border-radius: 2px;
     border: 1px solid #D9D9D9;
     background: #FFF;
-    box-shadow: 0 px 0 px 2 px 0 px rgba(0, 0, 0, 0.00);
+    box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.00);
     color: #595959;
 }
 
